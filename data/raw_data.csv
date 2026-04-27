@@ -1,1 +1,4 @@
-
+customer_id,name,email
+1,João,joao@email.com
+2,Maria,maria@email.com
+3,Carlos,carlos@email.com
